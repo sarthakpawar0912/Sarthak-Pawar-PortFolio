@@ -1,0 +1,27 @@
+  GNU nano 8.2                       .gitignore                       Modified
+# Next.js and TypeScript
+/node_modules
+/.next/
+/out/
+/build
+.env*
+.vercel
+*.tsbuildinfo
+next-env.d.ts
+
+# System and irrelevant files
+AppData/
+NTUSER*
+Documents/
+Downloads/
+*.log
+*.jpg
+*.png
+*.docx
+*.pdf
+*.xlsx
+DCIM/
+Movies/
+IdeaProjects/
+Resume/
+v0-untitled-project/
